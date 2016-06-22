@@ -1,0 +1,28 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "https://www.freecodecamp.com/challenges/request-header-parser-microservice",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alistair Martin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ipware": "0.0.8",
+    "useragent": "^2.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martalist/fcc-timestamp-ms"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
